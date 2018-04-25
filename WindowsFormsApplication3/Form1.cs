@@ -20,7 +20,8 @@ namespace WindowsFormsApplication3
         private void button1_Click(object sender, EventArgs e)
         {
             button1.Text = "hello";
-            label1.Text = "my name is avigail";
+            label1.Text = "my name is Sara";
+
         }
     }
 }
