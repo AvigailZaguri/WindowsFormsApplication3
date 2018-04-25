@@ -21,6 +21,7 @@ namespace WindowsFormsApplication3
         {
             button1.Text = "hello";
             label1.Text = "my name is Gila";
+            label1.Text += "\n my name is Dina";
 
         }
     }
